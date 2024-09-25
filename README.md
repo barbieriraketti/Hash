@@ -1,9 +1,9 @@
 
 # Atividade 2: Função Hash
 
-João Pedro Nagib Jorge Barbieri – 22.120.049-6
-Gabriel Brito Schanz – 22.119.010-1
-Lucas Podmanicki Fernandes - 22.121.007-3
+João Pedro Nagib Jorge Barbieri – 22.120.049-6 \n
+Gabriel Brito Schanz – 22.119.010-1 \n
+Lucas Podmanicki Fernandes - 22.121.007-3 \n
 Leonardo Barrionuevo Candido – 22.121.034-7
 
 
