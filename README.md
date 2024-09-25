@@ -17,3 +17,5 @@ As frases que obtiveram a combinação correta de hashes são consideradas verda
 Este relatório serve como um instrumento de validação para garantir a integridade das informações fornecidas.
 
 ## Código-Fonte
+
+**MAIN.PY**
