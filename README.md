@@ -1,4 +1,12 @@
+
 # Atividade 2: Função Hash
+
+João Pedro Nagib Jorge Barbieri – 22.120.049-6
+Gabriel Brito Schanz – 22.119.010-1
+Lucas Podmanicki Fernandes - 22.121.007-3
+Leonardo Barrionuevo Candido – 22.121.034-7
+
+
 
 Esta atividade tem o intuito de verificar a autenticidade de diversas frases fornecidas através do cálculo dos hashes **SHA256** e **MD5**. Para cada frase, os hashes foram calculados utilizando a biblioteca `hashlib` do Python e, em seguida, comparados com os valores esperados fornecidos.
 
@@ -18,4 +26,6 @@ Este relatório serve como um instrumento de validação para garantir a integri
 
 ## Código-Fonte
 
-**MAIN.PY**
+O código-fonte utilizado para este processo está disponível no repositório GitHub, no seguinte link:
+
+[Link para o código-fonte no GitHub](https://github.com/barbieriraketti/Hash/blob/main/main.py)
